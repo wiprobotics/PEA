@@ -1,0 +1,4 @@
+Name: Fashion Entry
+Description: A large revolving door with workspaces on either side of it
+Link: Fashion Walkthrough ()
+Link: Fashion Courtyard (Through the large revolving door)

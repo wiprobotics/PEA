@@ -1,0 +1,3 @@
+Name: Fashion Hotworks
+Description: A room with several manufacturing devices for use in fashion design.
+Link: Fashion Walkthrough ()

@@ -1,0 +1,8 @@
+Name: Daphne Du Maurier Seminar Corridor
+Link: Daphne Du Maurier Lecture Corridor (Double doors)
+Link: Daphne Du Maurier Ramp (Double doors up the ramp)
+Link: Daphne Du Maurier Seminar E (Down the corridor on the right as you enter)
+Link: Daphne Du Maurier Seminar F (Down the corridor on the right as you enter)
+Link: Daphne Du Maurier Seminar G (On the right between the corridors)
+Link: Daphne Du Maurier Seminar D (On the right of the enterance as you enter)
+Link: Daphne Du Maurier Wraparound Corridor (Through 3 sets of double doors)

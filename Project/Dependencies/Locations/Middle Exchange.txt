@@ -1,0 +1,5 @@
+Name: Middle Exchange
+Link: Library ()
+Link: Lower Exchange ()
+Link: Upper Exchange (Stairs)
+Link: Exchange Lecture Theatre ()

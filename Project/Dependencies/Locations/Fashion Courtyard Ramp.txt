@@ -1,0 +1,4 @@
+Name: Fashion Courtyard Ramp
+Description: A walled ramp leading to an overlook
+Link: Fashion Courtyard ()
+Link: Robotics Corridor ()

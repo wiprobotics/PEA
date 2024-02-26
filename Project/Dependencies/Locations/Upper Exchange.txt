@@ -1,0 +1,7 @@
+Name: Upper Exchange
+Link: Yellow Seminar ()
+Link: Esports ()
+Link: Green Seminar ()
+Link: Exchange Courtyard (Through the doors labeled the exchange)
+Link: Middle Exchange (Stairs)
+Link: Red Seminar ()

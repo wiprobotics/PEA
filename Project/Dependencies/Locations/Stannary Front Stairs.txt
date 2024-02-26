@@ -1,0 +1,3 @@
+Name: Stannary Front Stairs
+Link: Lower Stannary ()
+Link: Upper Stannary ()

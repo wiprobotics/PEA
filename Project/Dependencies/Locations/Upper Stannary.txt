@@ -1,0 +1,6 @@
+Name: Upper Stannary
+Description: A bar area with microwaves and seating areas
+Link: Food Vans ()
+Link: Library ()
+Link: Stannary Front Stairs ()
+Link: Stannary Rear Stairs ()
