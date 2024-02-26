@@ -42,9 +42,13 @@ class Run():
         return "This is an example module, it doesn't do anything useful, it has a single int input"
     
     def ReturnScenario(self):
-        response = "This module should be used when the user asks something similar to:"
-        response += "\n\t\t- What is 5 + 1?"
+        response = "\n\t\t This module should be used when the user asks something similar to:"
         response += "\n\t\t- Can you run the example function?"
+        return response
+    
+    def ReturnNullScenario(self):
+        response = "\n\t\t This module should NOT be used when the user asks something similar to:"
+        response += "\n\t\t- Anything other than people telling you to run the example function"
         return response
     
     def ReturnFunctionality(self):

@@ -29,7 +29,7 @@ class Processing():
             if "£Modules£" in line:
                 modulesList = "\n"
                 for module in modApi.modules:
-                    modulesList += ("\t Module Name: " + module + "\n\t\t Description: " + modApi.modules[module][1] + "\n\t\t Usecase: \n" + modApi.modules[module][2] + "\n")
+                    modulesList += ("\t Module Name: " + module + "\n\t\t Description: " + modApi.modules[module][1] + "\n\t\t Usecase: " + modApi.modules[module][2] + "\n\t\t When it should not be used:" + modApi.modules[module][3] + "\n")
                 line = line.replace("£Modules£", str(modulesList))
             self.scenario = self.scenario + line
         print(self.scenario)
