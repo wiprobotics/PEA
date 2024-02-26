@@ -100,14 +100,23 @@ class Run():
         self.current_location = self.location_manager.find_location("Robotics Lab")
 
     def ReturnDescription(self):
-        return "This module manages locations and links between them allowing the user to find routes between locations, it must be used when the user asks how to get to a location, do not imagine the routes, it has one string input which is the destination you want to get to. The module is told what the current location is so you don't have to tell it every time. The module will then return the route to the destination."
+        return "This module manages locations and links between them allowing the user to find routes between locations, do not imagine the routes, it has one string input which is the destination you want to get to. The module is told what the current location is so you don't have to tell it every time. The module will then return the route to the destination."
     
     def ReturnScenario(self):
-        response = "This module should be used when the user asks something similar to:"
+        response = "\n\t\t This module should be used when the user asks something similar to:"
         response += "\n\t\t - How do I get to the 'Location'?"
         response += "\n\t\t - What is the route to the 'Location'?"
         response += "\n\t\t - How do I get to the 'Location' from here?"
         response += "\n\t\t - What is the route to the 'Location' from here?"
+        return response
+    
+    def ReturnNullScenario(self):
+        response = "\n\t\t This module should NOT be used when the user asks something similar to:"
+        response += "\n\t\t - Tell me about the 'Location'"
+        response += "\n\t\t - How far away is 'Location'"
+        response += "\n\t\t - How long will it take to get to 'Location'?"
+        response += "\n\t\t - How far is the 'Location'? away from here?"
+
         return response
 
     def ReturnFunctionality(self):

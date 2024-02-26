@@ -13,10 +13,11 @@ class ModApi():
                 print(item)
                 module = __import__(f"Dependencies.Modules.{item[:-3]}", fromlist=['Run'])
                 runClass = getattr(module, "Run")
-                self.modules[item[:-3]] = [None, None, None]
+                self.modules[item[:-3]] = [None, None, None, None]
                 self.modules[item[:-3]][0] = runClass()
                 self.modules[item[:-3]][1] = self.modules[item[:-3]][0].ReturnDescription()
                 self.modules[item[:-3]][2] = self.modules[item[:-3]][0].ReturnScenario()
+                self.modules[item[:-3]][3] = self.modules[item[:-3]][0].ReturnNullScenario()
 
     def get_module(self, name):
         return self.modules[name][0]
