@@ -1,0 +1,8 @@
+Name: Fashion Courtyard
+Description: A corridor with tables and grass patches with lots of tables and a pingpong table
+Link: Fashion Courtyard Ramp ()
+Link: Exchange Corridor ()
+Link: Daphne Du Maurier Ramp ()
+Link: Exchange Outside Stairs ()
+Link: Fashion Entry (Through the large revolving door)
+Link: Fashion Courtyard Underpass ()

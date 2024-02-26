@@ -1,0 +1,5 @@
+Name: Fashion Walkthrough
+Description: The fashion main floor with lots of work spaces, it's mostly just the middle floor with a walkway
+Link: Fashion Hotworks ()
+Link: Fashion Entry ()
+Link: Design Center Inside Stairs ()

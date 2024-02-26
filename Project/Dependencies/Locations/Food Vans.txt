@@ -1,0 +1,6 @@
+Name: Food Vans
+Description: A roofed outside area with food vans in with a set of steps leading up to it
+Link: Lower Stannary ()
+Link: Upper Stannary ()
+Link: Past Stannary Road ()
+Link: Exchange Outside Stairs ()

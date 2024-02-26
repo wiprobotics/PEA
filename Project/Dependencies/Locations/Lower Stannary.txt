@@ -1,0 +1,9 @@
+Name: Lower Stannary
+Description: The main canteen for the university
+Link: Past Stannary Road ()
+Link: Stannary Toilets ()
+Link: Food Vans ()
+Link: Stannary Bar ()
+Link: Outside Green (Through the sliding doors)
+Link: Stannary Front Stairs ()
+Link: Stannary Rear Stairs ()

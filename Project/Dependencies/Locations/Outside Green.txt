@@ -1,0 +1,7 @@
+Name: Outside Green
+Description: A grassy space with picnic tables outside of the shop
+Link: Campus Shop (Through the main door)
+Link: Lower Stannary (Through the sliding doors)
+Link: Past Stannary Road ()
+Link: Lower Exchange (Through the spinning door)
+Link: Chapel Theatre ()

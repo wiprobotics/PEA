@@ -1,0 +1,7 @@
+Name: Past Stannary Road
+Link: Lower Stannary ()
+Link: Food Vans ()
+Link: Outside Green ()
+Link: Fashion Courtyard Underpass ()
+Link: Sports Hall Lane ()
+Link: Steep Stairs ()

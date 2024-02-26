@@ -1,0 +1,5 @@
+Name: Amata Hill
+Link: Amata ()
+Link: Hill Road ()
+Link: Industrial District ()
+Link: Gravel Path ()

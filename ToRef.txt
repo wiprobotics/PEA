@@ -1,0 +1,8 @@
+ISO 12100:2010 - Safety of machinery General principles for design
+    https://www.iso.org/standard/51528.html
+
+ISO/TS 15066:2016 - Robots and robotic devices Collaborative robots
+    https://www.iso.org/standard/62996.html
+
+gpt4all
+    https://github.com/nomic-ai/gpt4all

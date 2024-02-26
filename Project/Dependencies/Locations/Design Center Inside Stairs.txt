@@ -1,0 +1,4 @@
+Name: Design Center Inside Stairs
+Description: A set of stairs with an elevator and toilets
+Link: Fashion Walkthrough ()
+Link: Robotics Corridor ()

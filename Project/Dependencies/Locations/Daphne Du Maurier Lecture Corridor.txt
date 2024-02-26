@@ -1,0 +1,11 @@
+Name: Daphne Du Maurier Lecture Corridor
+Link: Daphne Du Maurier Seminar C (Located on the left of the corridor)
+Link: Daphne Du Maurier Seminar H (Located on the right of the corridor)
+Link: Daphne Du Maurier Lecture A (Located at the far end of the corridor)
+Link: Daphne Du Maurier Lecture B (Located at the far end of the corridor)
+Link: Daphne Du Maurier Seminar Corridor (Double doors)
+Link: Daphne Du Maurier Seminar I (Located on the right of the corridor)
+Link: Daphne Du Maurier Seminar J (Located on the left of the corridor)
+Link: Daphne Du Maurier Seminar K (Located on the left of the corridor)
+Link: Daphne Du Maurier Toilets (Located in a corridor on the left)
+Link: Daphne Du Maurier Seminar L (Located on the left of the corridor)
